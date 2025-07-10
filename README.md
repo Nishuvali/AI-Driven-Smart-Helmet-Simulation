@@ -79,7 +79,7 @@ This project presents an innovative AI-integrated smart helmet designed to impro
 
 ## 📑 Authors
  
-- Sai Nishwanth Valiveti (21241A3251)  
+- Sai Nishwanth Valiveti (21241A3251) - valiveti.nishu@gmail.com 
 
 ---
 
